@@ -30,22 +30,22 @@ The dataset consists of Uber rides recorded by users. Key columns include:
 
 **1.Category Analysis:**
    
-o	The dataset contains two ride categories: Business and Personal.
+The dataset contains two ride categories: Business and Personal.
 
-o	Business rides accounted for a higher distance, with a total of 11,000 miles, compared to 700 miles for personal rides.
+Business rides accounted for a higher distance, with a total of 11,000 miles, compared to 700 miles for personal rides.
 
 **2.Top Starting and Stopping Points:**
 
-o	177 unique starting locations were recorded, with the top 10 being mostly business-related locations like offices and airports.
+177 unique starting locations were recorded, with the top 10 being mostly business-related locations like offices and airports.
 
-o	188 unique stopping locations showed similar patterns, with the highest stop count at Carry (an unknown location), suggesting frequent usage of rides to/from business hubs.
+188 unique stopping locations showed similar patterns, with the highest stop count at Carry (an unknown location), suggesting frequent usage of rides to/from business hubs.
 
 **3.Round Trip Analysis:**
 
-o	A 25% round trip rate was observed, with most trips being one-way. This suggests users prefer flexibility in their travel plans.
+25% round trip rate was observed, with most trips being one-way. This suggests users prefer flexibility in their travel plans.
 
 **4.Distance Distribution:**
-o	A majority of the distances ranged between 0 to 50 miles, with few long-distance rides (e.g., 310 miles).
+majority of the distances ranged between 0 to 50 miles, with few long-distance rides (e.g., 310 miles).
 
 **Graphical Insights:**
 
